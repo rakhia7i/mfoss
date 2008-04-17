@@ -10,3 +10,5 @@ http://multifunction.nl/images/mffw_login.jpg
 http://multifunction.nl/images/mffw_cms_1.jpg
 http://multifunction.nl/images/mffw_cms_2.jpg 
 http://multifunction.nl/images/mffw_cargrabber.jpg
+
+Click [http://code.google.com/p/mfoss/downloads/detail?name=mffw-0.2.zip here] to download...
