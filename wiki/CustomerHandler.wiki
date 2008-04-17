@@ -3,3 +3,7 @@
 = Introduction =
 CustomerHandler is the name of the software created by Multi Function for administrating small internet companies.
 By default it comes with preinstalled Invoice and Gameserver sofware.
+
+_ Pictures will be added soon... _
+
+Click [http://code.google.com/p/mfoss/downloads/detail?name=mfch-0.4.zip here] to download...
