@@ -1,6 +1,6 @@
 #summary What is a customer handler?
 
-= Introduction =
+== Introduction ==
 CustomerHandler is the name of the software created by Multi Function for administrating small internet companies.
 By default it comes with preinstalled Invoice and Gameserver sofware.
 
@@ -10,8 +10,13 @@ Click [http://code.google.com/p/mfoss/downloads/detail?name=mfch-0.4.zip here] t
 
 == Plugins ==
 *[http://code.google.com/p/mfoss/downloads/detail?name=mfch-plugins-ticket.zip Ticket system]*
+
 *[http://code.google.com/p/mfoss/downloads/detail?name=mfch-plugins-faq.zip FAQ system]*
+
 *[http://code.google.com/p/mfoss/downloads/detail?name=mfch-plugins-orders.zip Order system]*
+
 *[http://code.google.com/p/mfoss/downloads/detail?name=mfch-plugins-news.zip News system]*
+
 *[http://code.google.com/p/mfoss/downloads/detail?name=mfch-plugins-ticket.zip CVS Finance system]*
+
 *Game Installer* (coming soon)
