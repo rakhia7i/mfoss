@@ -6,4 +6,7 @@
 FrameWork is the easy to use website-editor you want to use as a webdesigner.
 The package comes with buildin langauge and template support, and preloaded publishing modules (such as a WYSIWYG editor and a photo album).
 
-http://multifunction.nl/images/mffw_login.jpg http://multifunction.nl/images/mffw_cms_1.jpg http://multifunction.nl/images/mffw_cms_2.jpg http://multifunction.nl/images/mffw_cargrabber.jpg
+http://multifunction.nl/images/mffw_login.jpg 
+http://multifunction.nl/images/mffw_cms_1.jpg
+http://multifunction.nl/images/mffw_cms_2.jpg 
+http://multifunction.nl/images/mffw_cargrabber.jpg
