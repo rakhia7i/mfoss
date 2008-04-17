@@ -1,4 +1,4 @@
-#summary What is a customer handler?
+#summary What is customer handler?
 
 == Introduction ==
 CustomerHandler is the name of the software created by Multi Function for administrating small internet companies.
