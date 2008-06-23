@@ -1,4 +1,4 @@
-#summary A description of the CMS developped by Multi Function
+#summary An low-weight CMS
 #labels framework,cms
 
 = Introduction =
