@@ -1,3 +1,4 @@
 #summary An easy extendable PHP framework
+#labels argos
 
 = What is Argos? =
