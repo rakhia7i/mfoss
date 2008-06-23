@@ -1,0 +1,3 @@
+#summary An easy extendable PHP framework
+
+= What is Argos? =
