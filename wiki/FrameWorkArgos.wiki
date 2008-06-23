@@ -1,4 +1,0 @@
-#summary An easy extendable PHP framework
-#labels Featured
-
-= What is Argos? =
