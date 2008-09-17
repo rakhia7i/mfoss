@@ -1,6 +1,6 @@
 #summary Bugs currently in argos
 #labels Phase-Design
 
-* Image adding in the TinyMCE editor is broken
-* Config editor saves after loading data, so old data will appear.
-* Installer isn't ready yet
+ * Image adding in the TinyMCE editor is broken
+ * Config editor saves after loading data, so old data will appear.
+ * Installer isn't ready yet
