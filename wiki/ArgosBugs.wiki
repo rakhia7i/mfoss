@@ -1,5 +1,5 @@
 #summary Bugs currently in argos
-#labels Phase-Design
+#labels Phase-Design,argos
 
  * Image adding in the TinyMCE editor is broken 
  * In certain cases the HTTPdigest authentication doesn't work
