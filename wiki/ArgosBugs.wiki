@@ -4,4 +4,4 @@
  * Image adding in the TinyMCE editor is broken 
  * In certain cases the HTTPdigest authentication doesn't work
 
-For change list in latest release look at our change log
+For change list in latest release look at our [http://code.google.com/p/mfoss/wiki/ArgosChangeLog Change Log]
