@@ -1,6 +1,4 @@
 #labels Phase-Support
-[http://freedevs.org freedevs.org] - argos development website
-
-[http://multifunction.nl multifunction.nl] - commercial argos support
-
-[http://fierljepcentrum.nl fierljepcentrum.nl] - initial startup (still in development)
+|| [http://freedevs.org freedevs.org] || argos development website ||
+|| [http://multifunction.nl multifunction.nl] || commercial argos support ||
+|| [http://fierljepcentrum.nl fierljepcentrum.nl] || initial startup (still in development) ||
