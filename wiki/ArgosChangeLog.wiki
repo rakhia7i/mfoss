@@ -1,4 +1,6 @@
-#labels Phase-Implementation,Phase-Design
+#summary View the latest changes of Argos
+#labels Phase-Implementation,Phase-Design,argos
+
 == Fixed in 0.9.4 ==
  * Config editor saves after loading data, so old data will appear.
  * Installer isn't ready yet
