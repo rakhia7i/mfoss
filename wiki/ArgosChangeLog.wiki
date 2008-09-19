@@ -1,0 +1,18 @@
+#labels Phase-Implementation,Phase-Design
+== Fixed in 0.9.4 ==
+ * Config editor saves after loading data, so old data will appear.
+ * Installer isn't ready yet
+ * uni-form.jquery.js renamed to jquery.uni-form.js
+
+== Picasa package ==
+Adds the following new options;
+ * History manipulation (back button and bookmarking)
+ * File caching (eg. for external pages & rss feeds)
+ * And ofcourse the Picasa script
+
+== Blog package ==
+Adds the following new options;
+ * User registration
+ * User authentication
+ * User commenting
+ * The blogging administration/frontpage
