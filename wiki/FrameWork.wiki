@@ -1,5 +1,5 @@
 #summary An low-weight CMS
-#labels framework,cms
+#labels framework
 
 = Introduction =
 
