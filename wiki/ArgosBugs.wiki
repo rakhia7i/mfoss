@@ -1,7 +1,0 @@
-#summary Bugs currently in argos
-#labels Phase-Design,argos
-
- * Image adding in the TinyMCE editor is broken 
- * In certain cases the HTTPdigest authentication doesn't work
-
-For change list in latest release look at our [http://code.google.com/p/mfoss/wiki/ArgosChangeLog Change Log]
