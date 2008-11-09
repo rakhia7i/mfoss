@@ -1,6 +1,12 @@
 #summary Add your argos site here, and compare it with others
 #labels Phase-Support,argos
 
-|| [http://freedevs.org freedevs.org] || argos development website ||
-|| [http://multifunction.nl multifunction.nl] || commercial argos support ||
-|| [http://fierljepcentrum.nl fierljepcentrum.nl] || initial startup (still in development) ||
+* Support & Communities *
+|| [http://multifunction.nl MultiFunction.nl] || Commercial argos support ||
+
+* Currently in production *
+|| [http://trechterproducties.nl TrechterProductie.nl] || Video production company ||
+
+* Currently under development *
+|| [http://mouteryfryslan.nl/ MouteryFryslan.nl] || Distillery/brewery ||
+|| [http://fierljepcentrum.nl FierljepCentrum.nl] || Course/resort center ||
