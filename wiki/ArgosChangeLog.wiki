@@ -1,31 +1,34 @@
 #summary View the latest changes of Argos
 #labels Phase-Implementation,Phase-Design,argos
 
-== Argos 0.9.5 ==
+= Argos =
+
+== 0.9.5 ==
  * Page saving is fixed
  * New home page
  * Tuned editor
  * Template support in editor
 
-== Argos 0.9.4 ==
+== 0.9.4 ==
  * Config editor saves after loading data, so old data will appear.
  * Installer isn't ready yet
  * uni-form.jquery.js renamed to jquery.uni-form.js
 
+= Packages =
 
-== Finance package ==
+== Finance ==
 Adds the following new options;
  * Invoice managment
  * Customer managment
  * Recurring automated invoice sending
 
-== Picasa package ==
+== Picasa ==
 Adds the following new options;
  * History manipulation (back button and bookmarking)
  * File caching (eg. for external pages & rss feeds)
  * And ofcourse the Picasa script
 
-== Blog package (in development) ==
+== Blog (in development) ==
 Adds the following new options;
  * User registration
  * User authentication
