@@ -7,8 +7,8 @@
 * Currently in production *
 || [http://trechterproductie.nl Trechter Productie] || Video production company ||
 || [http://wiersma-installaties.nl Wiersma Installaties] || Plumber ||
-|| [http://ikbingeef.nl Ik Bin Geef || Jouth Club ||
-|| [http://t-squad.nl Terror Squad || Jouth Club ||
+|| [http://ikbingeef.nl Ik Bin Geef] || Jouth Club ||
+|| [http://t-squad.nl Terror Squad] || Jouth Club ||
 
 * Currently under development *
 || [http://mouteryfryslan.nl/ Moutery Fryslan] || Distillery/brewery ||
