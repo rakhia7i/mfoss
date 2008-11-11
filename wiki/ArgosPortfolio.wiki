@@ -2,11 +2,15 @@
 #labels Phase-Support,argos
 
 * Support & Communities *
-|| [http://multifunction.nl MultiFunction.nl] || Commercial argos support ||
+|| [http://multifunction.nl Multi Function] || Commercial argos support ||
 
 * Currently in production *
-|| [http://trechterproductie.nl TrechterProductie.nl] || Video production company ||
+|| [http://trechterproductie.nl Trechter Productie] || Video production company ||
+|| [http://wiersma-installaties.nl Wiersma Installaties] || Plumber ||
+|| [http://ikbingeef.nl Ik Bin Geef || Jouth Club ||
+|| [http://t-squad.nl Terror Squad || Jouth Club ||
 
 * Currently under development *
-|| [http://mouteryfryslan.nl/ MouteryFryslan.nl] || Distillery/brewery ||
-|| [http://fierljepcentrum.nl FierljepCentrum.nl] || Course/resort center ||
+|| [http://mouteryfryslan.nl/ Moutery Fryslan] || Distillery/brewery ||
+|| [http://fierljepcentrum.nl Fierljep Centrum] || Course/resort center ||
+|| Wiersma Bedrijfskleding || Work clothing ||
