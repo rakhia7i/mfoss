@@ -5,7 +5,7 @@
 || [http://multifunction.nl MultiFunction.nl] || Commercial argos support ||
 
 * Currently in production *
-|| [http://trechterproducties.nl TrechterProductie.nl] || Video production company ||
+|| [http://trechterproductie.nl TrechterProductie.nl] || Video production company ||
 
 * Currently under development *
 || [http://mouteryfryslan.nl/ MouteryFryslan.nl] || Distillery/brewery ||
