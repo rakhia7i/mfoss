@@ -1,8 +1,0 @@
-#summary Describes Argos
-#labels Phase-Deploy
-
-= Introduction =
-
-*Warning* Installation is only posible on a (sub)domain
-eg. domain.com and sub.domain.com will work,
-but domain.com/sub won't
