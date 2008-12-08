@@ -2,6 +2,10 @@
 #labels Phase-Implementation,Phase-Design,argos
 
 = Argos =
+== 0.9.6 ==
+ * javascript bug fix
+ * http auth bugfix
+ * new default css 
 
 == 0.9.5 ==
  * Page saving is fixed
