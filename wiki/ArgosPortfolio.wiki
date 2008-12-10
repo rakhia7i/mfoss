@@ -1,5 +1,5 @@
 #summary Add your argos site here, and compare it with others
-#labels Phase-Support,argos
+#labels Phase-Support,argos,Featured
 
 * Support & Communities *
 || [http://multifunction.nl Multi Function] || Commercial argos support ||
