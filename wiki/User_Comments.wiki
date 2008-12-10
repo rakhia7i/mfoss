@@ -1,0 +1,17 @@
+#summary Here you can leave your opinion about Argos
+#labels Featured
+
+== Examples ==
+Functions
+ - Template support
+
+Packages
+ - News
+ - Contact form
+ - GameServer managment
+
+Themes
+ - New administration themes
+ - New site themes
+
+Please help us make a choice in where to go next...
