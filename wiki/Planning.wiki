@@ -1,0 +1,13 @@
+#labels Phase-Design
+
+==Version 1.0==
+*Done*
+ * Generic "Load" method in Model
+ * 98% Less SQL Queries using a new Model constructor
+ * Config Model updated
+
+*First Priority*
+ * New name
+
+*Second Priority*
+ * New cms menu system
