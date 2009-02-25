@@ -9,6 +9,7 @@
 *First Priority*
  * New name
  * Fix save bugs admin.js
+ * Editable page name
 
 *Second Priority*
  * New cms menu system
