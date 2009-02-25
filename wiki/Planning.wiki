@@ -1,5 +1,5 @@
 #labels Phase-Design
-==Version 1.0==
+==Version 1.0 (beta)==
 *Done*
  * Generic "Load" method in Model
  * 98% Less SQL Queries using a new Model constructor
