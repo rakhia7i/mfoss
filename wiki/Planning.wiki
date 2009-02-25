@@ -12,3 +12,6 @@
 
 *Second Priority*
  * New cms menu system
+
+*Third Priority*
+ * New admin panel layout
