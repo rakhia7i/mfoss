@@ -1,0 +1,17 @@
+## Version 1.0 (beta) ##
+**Done**
+  * Generic "Load" method in Model
+  * 98% Less SQL Queries using a new Model constructor
+  * Config Model updated
+  * Page Model updated
+
+**First Priority**
+  * New name
+  * Fix save bugs admin.js
+  * Editable page name
+
+**Second Priority**
+  * New cms menu system
+
+**Third Priority**
+  * New admin panel layout

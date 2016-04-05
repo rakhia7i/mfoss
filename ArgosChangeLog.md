@@ -1,0 +1,37 @@
+# Argos #
+## 0.9.6 ##
+  * javascript bug fix
+  * http auth bugfix
+  * new default css
+
+## 0.9.5 ##
+  * Page saving is fixed
+  * New home page
+  * Tuned editor
+  * Template support in editor
+
+## 0.9.4 ##
+  * Config editor saves after loading data, so old data will appear.
+  * Installer isn't ready yet
+  * uni-form.jquery.js renamed to jquery.uni-form.js
+
+# Packages #
+
+## Finance ##
+Adds the following new options;
+  * Invoice managment
+  * Customer managment
+  * Recurring automated invoice sending
+
+## Picasa ##
+Adds the following new options;
+  * History manipulation (back button and bookmarking)
+  * File caching (eg. for external pages & rss feeds)
+  * And ofcourse the Picasa script
+
+## Blog (in development) ##
+Adds the following new options;
+  * User registration
+  * User authentication
+  * User commenting
+  * The blogging administration/frontpage
